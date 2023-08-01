@@ -1,5 +1,5 @@
 {
-  "name": "expo-serialport",
+  "name": "expo-serialport-hkaprinter",
   "version": "0.2.2",
   "description": "Simple serial port wrapper for android.",
   "main": "build/index.js",
